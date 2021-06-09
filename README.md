@@ -2,13 +2,13 @@
 
 Tech Stack I am familiar with :-
 
-Programming Languages :- C, C++, Java
+🎯 Programming Languages :- C, C++, Java
 
- 💻 Web Development Bucket :-
+💻 Web Development Bucket :-
  
-Front End :- HTML5, CSS3, Javascript, Bootstrap4 and React.js
+💥 Front End :- HTML5, CSS3, Javascript, Bootstrap4 and React.js
 
-Back End :- Node.js, Express.js
+💥 Back End :- Node.js, Express.js
 
 
 <!---
