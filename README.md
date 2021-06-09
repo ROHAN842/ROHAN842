@@ -2,7 +2,7 @@
 
  🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
-Tech Stack I am familiar with :-
+📌 Tech Stack I am familiar with :-
 
 🎯 Programming Languages :- C, C++, Java
 
