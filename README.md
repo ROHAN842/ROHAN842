@@ -4,6 +4,8 @@
  
 ⚡ I’m currently learning Flutter
 
+🥅 2021 Goals: Start Competitive Programming
+
 📌 Tech Stack I am familiar with :-
 
 🎯 Programming Languages :- C, C++, Java
