@@ -76,7 +76,7 @@ or use it. It helps me a lot.
 <p align=center>
   <div align=center>
     <a href="https://github.com/ROHAN842/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN842&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ROHAN842&theme=react&border=61dafb&hide_border=true" alt="ROHAN842" />
     </a>
     <a href="https://github.com/ROHAN842/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ROHAN842&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
