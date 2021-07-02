@@ -17,6 +17,8 @@ or use it. It helps me a lot.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+🎓 I am 3rd Year Student at VIT BHOPAL
+
 🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
 ⚡ I’m currently learning Flutter
