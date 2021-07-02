@@ -19,20 +19,20 @@ or use it. It helps me a lot.
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :🎓 I am 3rd Year Student at VIT BHOPAL
+- 🎓 I am 3rd Year Student at VIT BHOPAL
 
-🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
+- 🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
-⚡ I’m currently learning Flutter
+- ⚡ I’m currently learning Flutter
 
-🥅 2021 Goals: Start Competitive Programming
+- 🥅 2021 Goals: Start Competitive Programming
 
-📌 Tech Stack I am familiar with :-
+- 📌 Tech Stack I am familiar with :-
 
-🎯 Programming Languages :- C, C++, Java
+- 🎯 Programming Languages :- C, C++, Java
 
-💻 Web Development Bucket :-
+- 💻 Web Development Bucket :-
 
-💥 Front End :- HTML5, CSS3, Javascript, Bootstrap4 and React.js
+- 💥 Front End :- HTML5, CSS3, Javascript, Bootstrap4 and React.js
 
-💥 Back End :- Node.js, Express.js
+- 💥 Back End :- Node.js, Express.js
