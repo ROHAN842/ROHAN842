@@ -41,9 +41,9 @@ or use it. It helps me a lot.
 
 - 🛠 &nbsp; I’m currently working on a project to develop a portfolio  <br /> website for myself using HTML, CSS, JAVASCRIPT & Adobe Illustrations.
 - ⚡ &nbsp; I’m currently learning Flutter.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ROHAN842).
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/rohanmodi-79647819a/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: modijihrohan@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1D_c2PcaPgVgT34BkunEewUW7jIDqHytr/view?usp=sharing).
 
