@@ -23,8 +23,6 @@ or use it. It helps me a lot.
 
 - 🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
-- ⚡ I’m currently learning Flutter
-
 - 🥅 2021 Goals: Start Competitive Programming
 
 - 📌 Tech Stack I am familiar with :-
@@ -41,8 +39,8 @@ or use it. It helps me a lot.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working on a project to develop a portfolio <br /> Graphql, Mongodb, Javascript, etc.
+- ⚡ &nbsp; I’m currently learning Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
