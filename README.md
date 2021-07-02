@@ -14,5 +14,5 @@ or use it. It helps me a lot.
 
 ### Glad to see you here! &nbsp;
 
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="" width="500">
 
