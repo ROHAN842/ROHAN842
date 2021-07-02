@@ -68,6 +68,14 @@ or use it. It helps me a lot.
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="java" width="40" height="40"/> </a>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img title="C#" height="40" width="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg"></code>
+<code><img title="Problem Solving" height="40" width="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
+<code><img title="C" height="40" width="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+<code><img title="GitHub" height="40" width="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
+<code><img title="npm" height="40" width="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
+
+
+
 
 
  
