@@ -13,3 +13,6 @@ or use it. It helps me a lot.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rohanmodi96/)
 
 ### Glad to see you here! &nbsp;
+
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
