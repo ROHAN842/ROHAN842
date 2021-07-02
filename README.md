@@ -5,7 +5,7 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Modi....;Nice+to+meet+you!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Modi....;Full+Stack+Web+Developer;Flutter+Developer!&center=true&size=30">
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohanmodi-79647819a/)
