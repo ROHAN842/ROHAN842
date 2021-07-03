@@ -101,7 +101,7 @@ or use it. It helps me a lot.
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ROHAN842/Awesome-JavaScript-Projects" title="Awesome-JavaScript-Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Awesome-JavaScript-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ROHAN842/eccentrictouch" title="eccentrictouch"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=eccentrictouch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/ROHAN842/Desgen" title="Desgen"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Desgen&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
