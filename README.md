@@ -75,7 +75,9 @@ or use it. It helps me a lot.
 <code><img title="JSON" height="40" width="40" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.google.com/intl/en_in/chrome/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.google.com/intl/en_in/chrome/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="40" height="40"/> </a>
+<a href="https://dashboard.heroku.com/apps" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+
 
     
 
