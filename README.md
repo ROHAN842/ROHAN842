@@ -36,6 +36,7 @@ or use it. It helps me a lot.
 [![](https://gitwar.herokuapp.com/badge?username=ROHAN842&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on a project to develop a portfolio website  <br /> for myself using HTML, CSS, JAVASCRIPT & Adobe Illustrations.
