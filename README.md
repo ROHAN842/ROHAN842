@@ -15,6 +15,8 @@ or use it. It helps me a lot.
 
 - 🎓 I am 3rd Year Student at VIT BHOPAL
 
+- 🎮 I'm majoring in Game Development
+
 - 🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
 - 🥅 2021 Goals: Start Competitive Programming
