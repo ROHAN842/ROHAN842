@@ -7,8 +7,7 @@ or use it. It helps me a lot.
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Modi....;Full+Stack+Web+Developer;Flutter+Developer;UI/UX+Designer!&center=true&size=30">
 
-
-### Glad to see you here! &nbsp;
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
