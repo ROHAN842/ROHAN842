@@ -7,12 +7,6 @@ or use it. It helps me a lot.
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Modi....;Full+Stack+Web+Developer;Flutter+Developer;UI/UX+Designer!&center=true&size=30">
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohanmodi-79647819a/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RohanMo27620512)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rohanmodi96/)
-
 ### Glad to see you here! &nbsp;
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -122,7 +116,12 @@ or use it. It helps me a lot.
   <a href="https://github.com/ROHAN842?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<h2 align="left">:heart: Let's get connected:</h2>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohanmodi-79647819a/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RohanMo27620512)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rohanmodi96/)
 
 
  
