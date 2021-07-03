@@ -17,6 +17,8 @@ or use it. It helps me a lot.
 
 - 🎮 I'm majoring in Game Development
 
+- ⚛️ I build mobile apps using Flutter and web apps using HTML,CSS,JS,REACT,NODE&EXPRESS.
+
 - 🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
 - 🥅 2021 Goals: Start Competitive Programming
