@@ -42,7 +42,7 @@ or use it. It helps me a lot.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ROHAN842).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/rohanmodi-79647819a/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: modijihrohan@gmail.com.
+- 📫 &nbsp; How to reach me: rohanmodi790@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1ZmRmTQWomzGH92DAr1yn_px6SoYgl6Yk/view?usp=sharing).
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
