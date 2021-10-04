@@ -120,7 +120,7 @@ or use it. It helps me a lot.
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/ROHAN842/project-zone" title="project-zone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=project-zone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ROHAN842/codeflow" title="Codeflow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=codeflow&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/ROHAN842/GitMarkonics" title="Codeflow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=codeflow&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
