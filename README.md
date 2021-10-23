@@ -37,7 +37,7 @@ or use it. It helps me a lot.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on a project to develop a portfolio website  <br /> for myself using HTML, CSS, JAVASCRIPT & Adobe Illustrations.
+- 🛠 &nbsp; I’m currently working on a project to develop a portfolio website<br />for myself using HTML, CSS, JAVASCRIPT & Adobe Illustrations.
 - 📚 &nbsp; I’m currently learning Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ROHAN842).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/rohanmodi-79647819a/)! I am happy to help.
