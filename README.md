@@ -11,7 +11,7 @@ or use it. It helps me a lot.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left"👨🏻‍💻 About Me:</h2>
 
 - 🎓 I am 3rd Year Student at VIT BHOPAL
 
