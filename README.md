@@ -21,6 +21,8 @@ or use it. It helps me a lot.
 
 - 🚀 I like to explore new and innovative things and then try to import those features in my work such that it can be easily used by the whole community.
 
+- ❤️ I love to write reviews on various software related products, new technologies, cloud services etc.
+
 - 🥅 2022 Goals: Enhance my problem solving and development skills.
 
 - 📌 Tech Stack I am familiar with :-
