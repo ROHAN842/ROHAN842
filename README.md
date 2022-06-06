@@ -5,7 +5,7 @@ Please consider starring the repo if you find this useful in any manner
 or use it. It helps me a lot.
 -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Modi....;Full+Stack+Web+Developer;Flutter+Developer;UI/UX+Designer!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Modi....;Full+Stack+Web+Developer;Flutter+Developer;UI/UX+Designer;Software+Review+Writer!&center=true&size=30">
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ROHAN842.ROHAN842&style=flat-square&color=0088cc)
 
