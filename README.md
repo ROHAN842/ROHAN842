@@ -13,7 +13,7 @@ or use it. It helps me a lot.
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🎓 I am 3rd Year Student at VIT BHOPAL
+- 🎓 I am Final Year Student at VIT BHOPAL
 
 - 🎮 I'm majoring in Game Development
 
