@@ -47,7 +47,7 @@ or use it. It helps me a lot.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on SocialCrypto - a crowdfunding platform with a vision to create a social impact which allows people to donate funds via cryptocurrency.
+- 🛠 &nbsp; I’m currently working on SocialCrypto - a crowdfunding platform with a vision to create social impact, which allows people to donate funds via cryptocurrency.
 - 📚 &nbsp; I’m currently learning Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ROHAN842).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/rohanmodi-79647819a/)! I am happy to help.
