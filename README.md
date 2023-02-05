@@ -23,11 +23,13 @@ or use it. It helps me a lot.
 
 - ❤️ I love to write reviews on various software related products, new technologies, cloud services etc.
 
-- 🥅 2022 Goals: Explore and learn how real world softwares works with new tech stacks.
+- 🥅 2023 Goals: Explore and learn how real world software works with new tech stacks.
 
 - 📌 Tech Stack I am familiar with :-
 
 - 🎯 Programming Languages :- C, C++, Java
+
+- 🎯 Problem Solving :- Data Structures & Algorithms through C++
 
 - 💻 Web Development Bucket :-
 
