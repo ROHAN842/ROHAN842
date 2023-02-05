@@ -23,7 +23,7 @@ or use it. It helps me a lot.
 
 - ❤️ I love to write reviews on various software related products, new technologies, cloud services etc.
 
-- 🥅 2022 Goals: Enhance my problem solving and development skills.
+- 🥅 2022 Goals: Explore and learn how real world softwares works with new tech stacks.
 
 - 📌 Tech Stack I am familiar with :-
 
